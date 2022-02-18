@@ -1,0 +1,277 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.product{
+    height: 500px;
+    width: 100%;
+}
+.product .photo{
+    width: 50%;
+    height: 450px;
+    margin-left: 70px;
+    float: left;
+}
+.product .photo img{
+    width: 100%;
+    height: 100%;
+}
+.product .buySection{
+    height: 450px;
+    width: 30%;
+    float: right;
+    text-align: left;
+ }
+.buySection h2{
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+.dis{
+    width: 100%;
+    height: 60px;
+}
+.dis .offer{
+    height: 24px;
+    width: 100px;
+    background-color: red;
+    float: right;
+    margin: 10px 125px 0px 0px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 8px;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+}
+.offer p{
+    float: left;
+    margin: -18px 0px 0px 8px;
+    font-size: 2rem;
+}
+.buySection .prize{
+    float: left;
+    font-size: 1.6rem;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.buySection .cl{
+    margin-left: 10px;
+     font-size: .9rem;
+    margin-top: 8px;
+}
+.buySection .buy{
+    width: 100%;
+    height: 45px;
+ }
+.buy .count{
+    height: 45px;
+    width: 40%;
+    border: 1px solid black;
+    float: left;
+    border-radius: 4px;
+}
+.count button{
+    height: 45px;
+    width: 45px;
+    font-size: 2rem;
+    float: left;
+}
+.count .plus{
+    float: right;
+  }
+.buySection .buy .buybtn{
+    height: 45px;
+    width: 100px;
+    margin-left: 20px ;
+    background-color:rgb(255, 62, 62);
+    font-weight: bold;
+    color: white;
+    border-radius: 4px;
+ }
+ .buySection .egg{
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+
+
+ .flootertop{
+     height: 50px;
+     width: 100%;
+     background-color: #d9d9d9;
+ }
+.tmd{
+    height: 100%;
+    width: 200px;
+    float: left;
+ } 
+.tmd i{
+    color: rgb(224, 136, 4);
+    margin-right: 10px;
+    font-size: 1.4rem;
+}
+.flootertop p{
+    margin:13px 0px 0px 15px;
+    float: left;
+ }
+.cod{
+    height: 100%;
+    width: 200px;
+    float: left;
+ }
+
+.cod i{
+    color: rgb(224, 136, 4);
+    margin-right: 10px;
+    font-size: 1.4rem;
+}
+.flootertop a{
+    color: black;
+}
+ 
+.pay{
+    height: 100%;
+    width: 24%;
+    float: right;
+ }
+.pay p{
+    float: left;
+    margin:13px 30px 0px 15px;
+    font-weight: bold;
+    color: black;
+}
+.pay i{
+    padding: 3px;
+    background-color: blue;
+    color: white;
+    font-size: 1.7rem;
+    border-radius: 10px;
+    margin: 5px;
+}
+.pay .pay1{
+    background-color: blue;
+    color:white;
+}
+
+.pay .pay2{
+    background-color: red;
+    color:white;
+}
+.pay .pay3{
+    background:linear-gradient(to right, rgb(92, 92, 216), rgb(204, 93, 93), rgb(84, 194, 84));
+    color:white;
+}
+.pay .pay4{
+    background-color: black;
+    color:white;
+}
+
+ .Flooter{
+     height: 350px;
+     width: 100%;
+     background-color:#f2f2f2;
+ }
+ .Flooter .left{
+     height: 100%;
+     width: 76%;
+    float: left;
+    border-right: 1px solid #cccccc;
+ }
+ .left .chaldal{
+     width: 90%;
+     height: 50px;
+     margin: 20px 0px 0px 30px;
+ }
+ .chaldal i{
+     font-size: 1.8rem;
+     color: #fa9b80;
+     margin-right: 5px;
+ }
+ .chaldal p{
+     font-size: 2.5rem;
+     font-family: 'Freestyle Script';
+     margin-left: 10px;
+  }
+ .eggpara{
+     height: auto;
+     width: 80%;
+     margin-left: 35px;
+     text-align: justify;
+     margin-bottom: 30px;
+ }
+ .eggpara p{
+     text-align: justify;
+
+ }
+ .left .heading{
+     height: 30px;
+     width: 25%;
+     border-bottom: 1px solid rgb(163, 158, 158);
+     float: left;
+     margin-left: 30px;
+  }
+ .heading p{
+    font-size: 1.5rem;
+    margin-left: 5px;
+
+  }
+ .left .detail{
+    height: 100px;
+    width: 25%;
+    float: left;
+    margin: 20px 0px 0px 30px;
+ }
+ .detail a{
+    text-decoration: none;
+    color: black;
+     
+ }
+ .detail p{
+    text-decoration: none;
+    margin: 7px 0px 0px 6px ;
+    color: black;  
+  }
+ .all{
+     height: 100%;
+     width: 96%;
+ }
+ .Flooter .right{
+     height: 100%;
+     width: 23%;
+     float: right;
+     text-align: right;
+ }
+ .right .store{
+     width: 100%;
+     height: 50px;
+     margin-top: 30px;
+ }
+ .store img{
+     width: 40%;
+     height: 40px;
+     float: left;
+     border-radius: 5px;
+ }
+ .store .img2{
+     float: right;
+  }
+  .call{
+      transform: rotate(110deg);
+      margin-bottom: 10px;
+  } 
+  .email{
+      margin-bottom: 20px;
+  }
+  .social-media span{
+      padding: 10px;
+      background-color: blue;
+      color: white;
+      border-radius: 10px;
+  }
+  .social-media .span2{
+    background-color: red;
+  }
+  .social-media .span3{
+    background-color: rgb(40, 143, 240);
+  }
+  .social-media .span4{
+    background:linear-gradient(to bottom, rgb(243, 136, 13), rgb(126, 9, 155));
+  }
